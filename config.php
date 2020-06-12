@@ -1,7 +1,7 @@
 <?php
-$servername = "den1.mysql3.gear.host";
+$servername = "den1.mysql1.gear.host";
 $username = "catchiecartdb";
-$password = "Qy2w??YKh8qD";
+$password = "Gi1V162Hi7~~";
 $dbase= "catchiecartdb";
 
 // Create connection
